@@ -1,3 +1,4 @@
 # student jahidul
-this is my first repository
-author jahidul
+this is my first repository.
+<br>
+Author jahidul
